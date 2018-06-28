@@ -67,4 +67,3 @@ alias start_ml='source /usr/local/anaconda3/envs/machine-learning/bin/activate'
 eval "$(pipenv --completion)"
 
 [ -f /usr/local/etc/profile.d/autojump.sh ] && . /usr/local/etc/profile.d/autojump.sh
-export GOPATH=$HOME/Projects/go
